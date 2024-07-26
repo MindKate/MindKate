@@ -1,14 +1,27 @@
 ![HEADER](https://github.com/MindKate/MindKate/blob/main/image.jpg) 
 
-About me: 
+### About me: 
 
-Languages:
+### Languages:
+English Russian
 
-Tools:
-![YouTrack](https://img.shields.io/badge/You-Track-blue)
-![YouTrack](https://github.com/JetBrains/logos/blob/master/web/youtrack/youtrack.svg?short_path=4a19964-YouTrack-Color=097CDB)
+### Tools:
+![Youtrack](https://img.shields.io/badge/YouTrack-FF69B4)
+![Zendesk](https://img.shields.io/badge/Zendesk-EE82EE)
+![Notion](https://img.shields.io/badge/Notion-808080)
+![MongoDB](https://img.shields.io/badge/MongoDB-00FF00)
+![Grafana](https://img.shields.io/badge/Grafana-FFA500)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6495ED)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-87CEEB)
+![Slack](https://img.shields.io/badge/Slack-9400D3)
+![Hubspot](https://img.shields.io/badge/Hubspot-F4A460)
+![Miro](https://img.shields.io/badge/Miro-FFFF00)
 
-Contact me: 
+
+
+
+### Contact me: 
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mindkate)
 
 <!---
 MindKate/MindKate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
