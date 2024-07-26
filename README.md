@@ -1,4 +1,4 @@
-HEADER 
+![HEADER](https://github.com/MindKate/MindKate/blob/main/image.jpg) 
 
 About me: 
 
