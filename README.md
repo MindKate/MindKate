@@ -1,6 +1,9 @@
 ![HEADER](https://github.com/MindKate/MindKate/blob/main/image.jpg) 
 
+Hi there! Nice to see you here. 
+
 ### About me: 
+I'm a rookie in QA with a passion for this field. This is a test page for practicing and sharing some results.
 
 ### Languages:
 English Russian
