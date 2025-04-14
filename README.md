@@ -6,7 +6,8 @@ Hi there! Nice to see you here.
 I'm a rookie in QA with a passion for this field. This is a test page for practicing and sharing some results.
 
 ### Languages:
-English Russian
+English (Intermediate)
+Russian (native)
 
 ### Tools:
 ![Youtrack](https://img.shields.io/badge/YouTrack-FF69B4)
