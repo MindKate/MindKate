@@ -6,7 +6,7 @@ Hi there! Nice to see you here.
 I'm a rookie in QA with a passion for this field. This is a test page for practicing and sharing some results.
 
 ### Languages:
-English (Intermediate)
+English (Intermediate)  
 Russian (native)
 
 ### Tools:
